@@ -4,6 +4,10 @@
 **Portfolio role:** Mining investment dossier, stakeholder dashboard, document workflow  
 **Source posture:** Sanitized public case study for a controlled-access platform.
 
+![Generated portfolio visual for SAM Dossier](assets/hero.png)
+
+_Generated portfolio visual; not a confidential product screenshot._
+
 ## Overview
 
 SAM Dossier is a controlled-access platform concept for mining investment workflows, stakeholder reporting, document access, project tracking, and dashboard-based decision support.
@@ -20,6 +24,12 @@ I shaped the public case-study framing, information architecture, workflow model
 - Financial model interface planning and project-board concepts.
 - Security-conscious separation between public proof and protected production context.
 
+## Technical Proof
+
+- **Stack and delivery signals:** Controlled-access product framing, dossier information architecture, stakeholder dashboard modeling, document workflow planning, and privacy-aware public disclosure.
+- **Review checklist:** Review the login-gated shell, role-based workspace concept, document workflow framing, and the confidentiality boundary around investor material.
+- **Confidentiality boundary:** This public repo avoids investor records, private documents, financial assumptions, credentials, user data, document-vault contents, and operational mining details.
+
 ## Review Path
 
 1. Review the login-gated live shell.
@@ -34,4 +44,4 @@ This repository does not publish investor records, private documents, financial 
 
 - Portfolio: https://nwhite.systems
 - GitHub showcase: https://github.com/whitemorengwira/nwhitesystems
-- Professional contact: hello@nwhite.systems
+- Professional contact: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20SAM%20Dossier)
