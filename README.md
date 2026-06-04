@@ -39,6 +39,14 @@ I shaped the public case-study framing, information architecture, workflow model
 1. Review the login-gated live shell.
 2. Read this case study for architecture and workflow context.
 3. Use the main portfolio index for broader context: [NWhite Systems Portfolio](https://github.com/whitemorengwira/nwhitesystems).
+4. Forward the [one-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) where useful.
+
+## Review In 90 Seconds
+
+- Open the live shell to inspect the public controlled-access surface.
+- Scan `My Role`, `What This Demonstrates`, and `Technical Proof`.
+- Compare the confidentiality boundary with the wider [recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md).
+- [Request a portfolio walkthrough](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20SAM%20Dossier) for deeper review where permission allows.
 
 ## Confidentiality
 
