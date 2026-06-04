@@ -1,37 +1,34 @@
-# SAM Dossier Case Study
+# SAM Dossier - Portfolio Case Study
 
-**Sanitized portfolio case study for a mining investment dossier and stakeholder workflow platform**
+**Live artifact:** [https://sam-dossier.vercel.app/](https://sam-dossier.vercel.app/)  
+**Portfolio role:** Mining investment dossier, stakeholder dashboard, document workflow  
+**Source posture:** Sanitized public case study for a controlled-access platform.
 
-This repository is a public, sanitized case-study shell. It exists to explain the architecture, workflow thinking, and product strategy behind a confidential mining investment dossier platform without exposing private code, investor materials, credentials, operational data, document vault contents, or commercially sensitive information.
+## Overview
 
-## What It Demonstrates
+SAM Dossier is a controlled-access platform concept for mining investment workflows, stakeholder reporting, document access, project tracking, and dashboard-based decision support.
 
-- Stakeholder dashboard architecture
-- Role-based workspace thinking
-- Document workflow and validation concepts
-- Financial model interface planning
-- Project board and timeline concepts
-- Investor-dossier information architecture
-- Security-conscious separation between public proof and private production systems
+## My Role
 
-## Architecture Summary
+I shaped the public case-study framing, information architecture, workflow model, and dashboard concepts while keeping confidential investment and operational material separated from public review.
 
-The confidential production system combines dashboard views, project workspaces, document workflows, financial model surfaces, role-based access, and stakeholder reporting. This public repo documents the design approach at a safe level only.
+## What This Demonstrates
 
-## Why the Production Repo Is Private
+- Stakeholder dashboard architecture.
+- Role-based workspace and document workflow thinking.
+- Investor-dossier information architecture.
+- Financial model interface planning and project-board concepts.
+- Security-conscious separation between public proof and protected production context.
 
-The production code and live operational materials may contain sensitive business context, private documents, user data, investment assumptions, internal workflows, and infrastructure details. For that reason, the full source remains private and this sanitized case study is the public portfolio artifact.
+## Review Path
 
-## Portfolio Relevance
+1. Review the login-gated live shell.
+2. Read this case study for architecture and workflow context.
+3. Use the main portfolio index for broader context: [NWhite Systems Portfolio](https://github.com/whitemorengwira/nwhitesystems).
 
-This case study is relevant for roles involving:
+## Confidentiality
 
-- Systems architecture
-- Full-stack product architecture
-- Analytics/reporting workflows
-- Enterprise stakeholder platforms
-- Regulated-sector digital transformation
-- Governance and operational controls
+This repository does not publish investor records, private documents, financial assumptions, credentials, user data, document-vault contents, or operational mining details. Deeper walkthroughs can be provided privately where confidentiality allows.
 
 ## Contact
 
