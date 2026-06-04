@@ -8,6 +8,10 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+![Public live demo screenshot for SAM Dossier](assets/live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 SAM Dossier is a controlled-access platform concept for mining investment workflows, stakeholder reporting, document access, project tracking, and dashboard-based decision support.
