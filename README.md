@@ -8,10 +8,6 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
-![Generated SAM Dossier interface preview](assets/sam-dossier-interface-preview.png)
-
-_Generated interface preview; not a live screenshot or confidential product capture._
-
 ## Overview
 
 SAM Dossier is a controlled-access platform concept for mining investment workflows, stakeholder reporting, document access, project tracking, and dashboard-based decision support.
@@ -31,22 +27,19 @@ I shaped the public case-study framing, information architecture, workflow model
 ## Technical Proof
 
 - **Stack and delivery signals:** Controlled-access product framing, dossier information architecture, stakeholder dashboard modeling, document workflow planning, and privacy-aware public disclosure.
-- **Review checklist:** Review the login-gated shell, role-based workspace concept, document workflow framing, and the confidentiality boundary around investor material.
+- **Public evidence:** Login-gated shell, role-based workspace concept, document workflow framing, and confidentiality boundary around investor material.
 - **Confidentiality boundary:** This public repo avoids investor records, private documents, financial assumptions, credentials, user data, document-vault contents, and operational mining details.
 
-## Review Path
+## Public Review Context
 
-1. Review the login-gated live shell.
-2. Read this case study for architecture and workflow context.
-3. Use the main portfolio index for broader context: [NWhite Systems Portfolio](https://github.com/whitemorengwira/nwhitesystems).
-4. Forward the [one-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) where useful.
+The login-gated live shell presents the public controlled-access surface. This case study adds architecture and workflow context. The [NWhite Systems Portfolio](https://github.com/whitemorengwira/nwhitesystems) and [one-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) provide broader hiring-review context.
 
-## Review In 90 Seconds
+## 90-Second Evidence Route
 
-- Open the live shell to inspect the public controlled-access surface.
-- Scan `My Role`, `What This Demonstrates`, and `Technical Proof`.
-- Compare the confidentiality boundary with the wider [recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md).
-- [Request a portfolio walkthrough](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20SAM%20Dossier) for deeper review where permission allows.
+- Live shell for the public controlled-access surface.
+- `My Role`, `What This Demonstrates`, and `Technical Proof` for architecture and delivery context.
+- Wider [recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md) for confidentiality and portfolio context.
+- [Portfolio walkthrough request](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20SAM%20Dossier) for deeper review where permission allows.
 
 ## Confidentiality
 
