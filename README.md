@@ -8,9 +8,9 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
-![Public live demo screenshot for SAM Dossier](assets/live.png)
+![Generated SAM Dossier interface preview](assets/sam-dossier-interface-preview.png)
 
-_Public live artifact screenshot captured on June 4, 2026._
+_Generated interface preview; not a live screenshot or confidential product capture._
 
 ## Overview
 
@@ -51,6 +51,10 @@ I shaped the public case-study framing, information architecture, workflow model
 ## Confidentiality
 
 This repository does not publish investor records, private documents, financial assumptions, credentials, user data, document-vault contents, or operational mining details. Deeper walkthroughs can be provided privately where confidentiality allows.
+
+## Usage Rights
+
+This repository is public for portfolio review only and is not open-source licensed. See [COPYRIGHT.md](COPYRIGHT.md) for usage boundaries.
 
 ## Contact
 

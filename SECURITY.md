@@ -1,5 +1,9 @@
 # Security Policy
 
-This is a sanitized public case-study repository. It should not contain production source code, private client data, investor materials, credentials, internal infrastructure details, API keys, database credentials, service-role keys, or confidential documents.
+This repository is a public portfolio and recruiter review surface. It should not contain secrets, credentials, private dashboards, client records, student records, investor records, or confidential operational details.
 
-If sensitive material appears here, contact hello@nwhite.systems and do not open a public issue.
+Report sensitive concerns by email: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Security%20concern%20-%20SAM%20Dossier%20case%20study)
+
+Please include the repository name, file path or URL, what appears exposed, and why it may be sensitive.
+
+Do not open public issues for sensitive reports. The supported public surface is the default branch only; private production systems and confidential source are outside this repository.
